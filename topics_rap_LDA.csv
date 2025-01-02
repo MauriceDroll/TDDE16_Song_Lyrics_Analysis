@@ -1,8 +1,36 @@
 Method,Genre,Decade,Topic
-LDA,Rap,1970s,
-LDA,Rap,1980s,
-LDA,Rap,1990s,
-LDA,Rap,2000s,
-LDA,Rap,2010s,
-LDA,Rap,2020s,
-LDA,Rap,2030s,
+LDA,Rap,70s,"0.011*""wish"" + 0.009*""real"" + 0.009*""thing"" + 0.008*""black"" + 0.007*""que"""
+LDA,Rap,70s,"0.042*""yuh"" + 0.040*""pib"" + 0.040*""flosisisnsn"" + 0.040*""bsew"" + 0.023*""swear"""
+LDA,Rap,70s,"0.050*""feat"" + 0.033*""swear"" + 0.010*""lil"" + 0.005*""curry"" + 0.005*""denzel"""
+LDA,Rap,70s,"0.022*""got"" + 0.016*""hey"" + 0.014*""car"" + 0.014*""ritz"" + 0.011*""stop"""
+LDA,Rap,70s,"0.016*""revolution"" + 0.012*""comes"" + 0.011*""fortnite"" + 0.009*""swear"" + 0.005*""wa"""
+LDA,Rap,80s,"0.015*""de"" + 0.015*""said"" + 0.012*""baby"" + 0.011*""se"" + 0.010*""el"""
+LDA,Rap,80s,"0.023*""rock"" + 0.014*""say"" + 0.013*""got"" + 0.011*""cause"" + 0.010*""stop"""
+LDA,Rap,80s,"0.036*""body"" + 0.023*""rock"" + 0.009*""breaks"" + 0.009*""back"" + 0.008*""verse"""
+LDA,Rap,80s,"0.038*""swear"" + 0.010*""chicken"" + 0.010*""revolution"" + 0.010*""raft"" + 0.009*""hey"""
+LDA,Rap,80s,"0.013*""right"" + 0.008*""funk"" + 0.008*""gon"" + 0.007*""music"" + 0.006*""time"""
+LDA,Rap,90s,"0.046*""swear"" + 0.011*""cause"" + 0.011*""got"" + 0.009*""ice"" + 0.009*""know"""
+LDA,Rap,90s,"0.013*""got"" + 0.011*""cause"" + 0.011*""said"" + 0.009*""swear"" + 0.008*""funky"""
+LDA,Rap,90s,"0.010*""swear"" + 0.009*""cause"" + 0.008*""got"" + 0.007*""one"" + 0.007*""know"""
+LDA,Rap,90s,"0.013*""swear"" + 0.010*""posse"" + 0.008*""cause"" + 0.008*""got"" + 0.007*""know"""
+LDA,Rap,90s,"0.014*""swear"" + 0.014*""got"" + 0.009*""cause"" + 0.008*""said"" + 0.007*""know"""
+LDA,Rap,00s,"0.054*""swear"" + 0.013*""got"" + 0.009*""money"" + 0.008*""yeah"" + 0.008*""biggie"""
+LDA,Rap,00s,"0.057*""swear"" + 0.012*""got"" + 0.008*""know"" + 0.008*""cause"" + 0.007*""verse"""
+LDA,Rap,00s,"0.025*""swear"" + 0.013*""wit"" + 0.013*""uh"" + 0.012*""got"" + 0.012*""round"""
+LDA,Rap,00s,"0.042*""swear"" + 0.020*""wake"" + 0.010*""got"" + 0.010*""wish"" + 0.010*""come"""
+LDA,Rap,00s,"0.027*""swear"" + 0.012*""bad"" + 0.010*""still"" + 0.010*""dre"" + 0.010*""yeah"""
+LDA,Rap,10s,"0.049*""swear"" + 0.014*""got"" + 0.009*""know"" + 0.008*""cause"" + 0.007*""verse"""
+LDA,Rap,10s,"0.022*""swear"" + 0.021*""make"" + 0.018*""yeah"" + 0.018*""wee"" + 0.015*""rain"""
+LDA,Rap,10s,"0.024*""swear"" + 0.022*""cam"" + 0.020*""killa"" + 0.016*""go"" + 0.011*""hard"""
+LDA,Rap,10s,"0.023*""swear"" + 0.012*""got"" + 0.010*""yeah"" + 0.009*""gon"" + 0.008*""already"""
+LDA,Rap,10s,"0.017*""jeah"" + 0.017*""swear"" + 0.015*""got"" + 0.008*""money"" + 0.008*""moving"""
+LDA,Rap,20s,"0.032*""swear"" + 0.009*""right"" + 0.008*""yeah"" + 0.007*""got"" + 0.006*""cause"""
+LDA,Rap,20s,"0.037*""swear"" + 0.010*""yeah"" + 0.010*""know"" + 0.009*""got"" + 0.008*""em"""
+LDA,Rap,20s,"0.028*""swear"" + 0.013*""go"" + 0.012*""got"" + 0.009*""yeah"" + 0.009*""know"""
+LDA,Rap,20s,"0.024*""chick"" + 0.014*""badder"" + 0.012*""bad"" + 0.012*""watagatapitusberry"" + 0.010*""day"""
+LDA,Rap,20s,"0.032*""swear"" + 0.009*""know"" + 0.009*""got"" + 0.007*""verse"" + 0.006*""never"""
+LDA,Rap,30s,"0.018*""swear"" + 0.012*""j"" + 0.012*""est"" + 0.009*""work"" + 0.008*""l"""
+LDA,Rap,30s,"0.014*""swear"" + 0.012*""nigga"" + 0.010*""war"" + 0.009*""got"" + 0.007*""n"""
+LDA,Rap,30s,"0.044*""swear"" + 0.016*""got"" + 0.007*""know"" + 0.007*""verse"" + 0.006*""love"""
+LDA,Rap,30s,"0.015*""swear"" + 0.009*""go"" + 0.007*""yeah"" + 0.007*""tell"" + 0.006*""verse"""
+LDA,Rap,30s,"0.025*""man"" + 0.008*""en"" + 0.008*""putes"" + 0.007*""que"" + 0.007*""good"""
