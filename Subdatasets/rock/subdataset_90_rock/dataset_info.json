@@ -1,0 +1,52 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tag": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "artist": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "year": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "views": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "features": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "lyrics": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "language_cld3": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "language_ft": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "language": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
