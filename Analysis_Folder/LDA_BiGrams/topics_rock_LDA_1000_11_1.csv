@@ -1,0 +1,13 @@
+Method,Genre,Decade,Topic
+BiGrams,Rock,70s,"0.019*""love"" + 0.012*""time"" + 0.012*""baby"" + 0.010*""to"" + 0.009*""night"" + 0.008*""day"" + 0.008*""life"" + 0.007*""girl"" + 0.006*""go"" + 0.006*""feel"""
+BiGrams,Rock,70s,"0.025*""love"" + 0.014*""time"" + 0.011*""to"" + 0.010*""baby"" + 0.010*""night"" + 0.009*""feel"" + 0.009*""go"" + 0.009*""day"" + 0.007*""outro"" + 0.006*""lie"""
+BiGrams,Rock,80s,"0.028*""love"" + 0.014*""time"" + 0.011*""go"" + 0.010*""to"" + 0.009*""eye"" + 0.009*""day"" + 0.008*""heart"" + 0.008*""baby"" + 0.008*""outro"" + 0.008*""live"""
+BiGrams,Rock,80s,"0.020*""love"" + 0.013*""time"" + 0.013*""to"" + 0.010*""night"" + 0.010*""feel"" + 0.009*""day"" + 0.009*""life"" + 0.008*""girl"" + 0.007*""baby"" + 0.007*""heart"""
+BiGrams,Rock,90s,"0.016*""love"" + 0.012*""time"" + 0.011*""feel"" + 0.009*""go"" + 0.008*""to"" + 0.008*""baby"" + 0.008*""wanna"" + 0.008*""life"" + 0.007*""outro"" + 0.007*""day"""
+BiGrams,Rock,90s,"0.019*""love"" + 0.013*""to"" + 0.012*""time"" + 0.009*""bridge"" + 0.009*""life"" + 0.009*""feel"" + 0.009*""day"" + 0.008*""baby"" + 0.008*""outro"" + 0.007*""wanna"""
+BiGrams,Rock,00s,"0.013*""love"" + 0.012*""time"" + 0.010*""bridge"" + 0.009*""to"" + 0.008*""life"" + 0.008*""outro"" + 0.008*""feel"" + 0.008*""leave"" + 0.008*""prechorus"" + 0.007*""wanna"""
+BiGrams,Rock,00s,"0.017*""love"" + 0.014*""time"" + 0.013*""feel"" + 0.009*""heart"" + 0.008*""prechorus"" + 0.008*""eye"" + 0.008*""bridge"" + 0.007*""to"" + 0.007*""leave"" + 0.007*""outro"""
+BiGrams,Rock,10s,"0.021*""love"" + 0.012*""time"" + 0.011*""wanna"" + 0.010*""feel"" + 0.009*""to"" + 0.009*""leave"" + 0.009*""heart"" + 0.008*""prechorus"" + 0.007*""bridge"" + 0.007*""baby"""
+BiGrams,Rock,10s,"0.021*""love"" + 0.014*""time"" + 0.013*""feel"" + 0.010*""wanna"" + 0.010*""to"" + 0.010*""prechorus"" + 0.010*""heart"" + 0.009*""day"" + 0.008*""bridge"" + 0.008*""baby"""
+BiGrams,Rock,20s,"0.016*""love"" + 0.015*""time"" + 0.012*""feel"" + 0.012*""wanna"" + 0.011*""prechorus"" + 0.008*""day"" + 0.008*""to"" + 0.008*""life"" + 0.007*""leave"" + 0.007*""outro"""
+BiGrams,Rock,20s,"0.014*""love"" + 0.014*""feel"" + 0.013*""time"" + 0.011*""wanna"" + 0.009*""to"" + 0.009*""prechorus"" + 0.008*""bridge"" + 0.008*""leave"" + 0.008*""heart"" + 0.007*""lose"""

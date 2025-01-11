@@ -1,0 +1,13 @@
+Method,Genre,Decade,Topic
+BiGrams,Pop,70s,"0.040*""love"" + 0.013*""day"" + 0.012*""to"" + 0.011*""time"" + 0.010*""baby"" + 0.008*""night"" + 0.008*""go"" + 0.007*""feel"" + 0.007*""life"" + 0.005*""heart"""
+BiGrams,Pop,70s,"0.029*""love"" + 0.014*""baby"" + 0.012*""time"" + 0.010*""day"" + 0.009*""night"" + 0.009*""life"" + 0.009*""to"" + 0.008*""feel"" + 0.006*""go"" + 0.006*""girl"""
+BiGrams,Pop,80s,"0.038*""love"" + 0.013*""baby"" + 0.013*""time"" + 0.012*""heart"" + 0.011*""day"" + 0.009*""to"" + 0.009*""life"" + 0.009*""night"" + 0.008*""girl"" + 0.008*""feel"""
+BiGrams,Pop,80s,"0.030*""love"" + 0.015*""time"" + 0.013*""baby"" + 0.011*""heart"" + 0.010*""to"" + 0.009*""day"" + 0.009*""night"" + 0.008*""feel"" + 0.008*""go"" + 0.008*""girl"""
+BiGrams,Pop,90s,"0.025*""love"" + 0.013*""baby"" + 0.011*""feel"" + 0.010*""day"" + 0.010*""time"" + 0.010*""life"" + 0.009*""heart"" + 0.009*""to"" + 0.008*""night"" + 0.008*""girl"""
+BiGrams,Pop,90s,"0.035*""love"" + 0.014*""time"" + 0.013*""baby"" + 0.012*""life"" + 0.011*""heart"" + 0.010*""feel"" + 0.008*""to"" + 0.008*""night"" + 0.007*""wanna"" + 0.007*""day"""
+BiGrams,Pop,00s,"0.027*""love"" + 0.013*""to"" + 0.013*""baby"" + 0.011*""wanna"" + 0.011*""time"" + 0.010*""girl"" + 0.010*""day"" + 0.009*""feel"" + 0.009*""go"" + 0.008*""heart"""
+BiGrams,Pop,00s,"0.031*""love"" + 0.014*""time"" + 0.012*""girl"" + 0.012*""to"" + 0.011*""feel"" + 0.009*""baby"" + 0.009*""wanna"" + 0.009*""boy"" + 0.008*""life"" + 0.007*""go"""
+BiGrams,Pop,10s,"0.032*""love"" + 0.017*""baby"" + 0.013*""wanna"" + 0.012*""prechorus"" + 0.011*""feel"" + 0.010*""time"" + 0.009*""girl"" + 0.009*""to"" + 0.008*""night"" + 0.007*""bridge"""
+BiGrams,Pop,10s,"0.033*""love"" + 0.018*""baby"" + 0.014*""time"" + 0.012*""prechorus"" + 0.012*""wanna"" + 0.010*""feel"" + 0.010*""to"" + 0.009*""girl"" + 0.008*""heart"" + 0.008*""night"""
+BiGrams,Pop,20s,"0.032*""love"" + 0.014*""feel"" + 0.014*""prechorus"" + 0.014*""time"" + 0.011*""baby"" + 0.011*""wanna"" + 0.010*""to"" + 0.009*""night"" + 0.008*""day"" + 0.007*""heart"""
+BiGrams,Pop,20s,"0.025*""love"" + 0.013*""wanna"" + 0.012*""time"" + 0.012*""feel"" + 0.010*""baby"" + 0.010*""prechorus"" + 0.009*""heart"" + 0.009*""to"" + 0.008*""life"" + 0.007*""day"""
